@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="9">
+    <author>bb ee</author>
+    <version>1.0</version>
+	<title>
+        <en>Joh</en>
+        <de>Joh DD</de>
+    </title>
+	<description>
+		<en><![CDATA[Jo 900kg ]]></en>
+		<de><![CDATA[J 900kg icht]]></de>
+	</description> 
+	<storeItems>
+		<storeItem>
+            <en>
+                <name>Joh KG</name>
+                <description>
+					<![CDATA[ und rio]]>
+                </description>
+            </en>
+            <rotation>0</rotation>
+            <image>http://image</image>
+            <price>1000</price>
+			<dailyUpkeep>2</dailyUpkeep>
+			<brand>John Deere</brand>
+			<machineType>weights</machineType>
+        </storeItem>
+		<storeItem>
+            <en>
+                <name>Jo 221200 KG</name>
+                <description>
+					<![CDATA[rio eere 900KG]]>
+                </description>
+            </en>
+            <rotation>0</rotation>
+            <image>http://image_fgfgdfg</image>
+            <price>1000</price>
+			<dailyUpkeep>4</dailyUpkeep>
+            <xmlFilename>JohnDeere.xml</xmlFilename>
+			<brand>John Deere fdgdgdf</brand>
+			<machineType>weights  dfdg ddde</machineType>
+        </storeItem>
+    </storeItems>
+</modDesc>
