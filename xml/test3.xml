@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<ZBIOR>
+ <PODZBIOR>
+ <id>123</id>
+  <TYTU&#321;><![CDATA[Smartfony]]></TYTU&#321;>
+  <cena>1222,454</cena>
+  <url>http://www.example.com</url>
+  <obraz>http://www.example.com/imae.jpg</obraz>
+  <OPIS><![CDATA[TELEFON  ]]></OPIS>
+ </PODZBIOR>
+ <PODZBIOR>
+  <id>1234</id>
+  <TYTU&#321;><![CDATA[SAMSUNG]]></TYTU&#321;>
+  <cena>12,44</cena>
+  <url>http://www.example-trr.com</url>
+  <obraz>http://www.example.com/imaexdfgdgdgd.jpg</obraz>
+  <OPIS><![CDATA[ OPIS tststs ]]></OPIS>
+ </PODZBIOR>
+</ZBIOR>
