@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-2"?><PRODUKTY>
+<PRODUKT><ID><![CDATA[70]]></ID>
+<KATEGORIA><![CDATA[Smartfony]]></KATEGORIA>
+<MARKA><![CDATA[300]]></MARKA>
+<MODEL><![CDATA[TELEFON ]]></MODEL>
+<CENA><![CDATA[198.71]]></CENA>
+<URL_IMG><![CDATA[http://www.exsample.com/data/jhh.jpg]]></URL_IMG>
+<URL_PROD><![CDATA[http://www.exsample.com/gg.html]]></URL_PROD>
+<OPIS><![CDATA[TELEFON I930 ]]></OPIS>
+</PRODUKT>
+<PRODUKT>
+<ID><![CDATA[79]]></ID>
+<KATEGORIA><![CDATA[kategoria]]></KATEGORIA>
+<MARKA><![CDATA[HTC]]></MARKA>
+<MODEL><![CDATA[NOWY HTC GW]]></MODEL>
+<CENA><![CDATA[347]]></CENA>
+<URL_IMG><![CDATA[http://www.exsample.com/data/gg.jpg]]></URL_IMG>
+<URL_PROD><![CDATA[http://www.exsample.com/gg.html]]></URL_PROD>
+<OPIS><![CDATA[dfsdfsdfsdfsdfsdfsdfsdfsdfsd d sd d sssfsdfsdfsf]]></OPIS>
+</PRODUKT>
+<PRODUKT>
+<ID><![CDATA[72]]></ID>
+<KATEGORIA><![CDATA[kategoria]]></KATEGORIA>
+<MARKA><![CDATA[LG]]></MARKA>
+<MODEL><![CDATA[LG]]></MODEL>
+<CENA><![CDATA[298.71]]></CENA>
+<URL_IMG><![CDATA[http://www.exsample.com/data/hh.jpg]]></URL_IMG>
+<URL_PROD><![CDATA[http://www.exsample.com.html]]></URL_PROD>
+<OPIS><![CDATA[ Description of document ]]></OPIS>
+</PRODUKT>
+</PRODUKTY>
