@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<ZBIOR>
+ <PODZBIOR>
+  <TYTU&#321;><![CDATA[Smartfony]]></TYTU&#321;>
+  <D&#321;UGI_TYTU&#321;><![CDATA[Smartfony dla adasia ]]></D&#321;UGI_TYTU&#321;>
+  <DANE id="123" cena="1234,454" url="http://www.example.com"></DANE>
+  <obraz>http://www.example.com/imae.jpg</obraz>
+  <OPIS><![CDATA[TELEFON  afafaf]]></OPIS>
+ </PODZBIOR>
+ <PODZBIOR>
+  <TYTU&#321;><![CDATA[SAMSUNG]]></TYTU&#321;>
+  <D&#321;UGI_TYTU&#321;><![CDATA[Samsung dla adasia ]]></D&#321;UGI_TYTU&#321;>
+  <DANE id="12" cena="12,454" url="http://www.example-sss.com"></DANE>
+  <obraz>http://www.example.com/imaedfgdgdgd.jpg</obraz>
+  <OPIS><![CDATA[ OPIS tststs ]]></OPIS>
+ </PODZBIOR>
+</ZBIOR>
