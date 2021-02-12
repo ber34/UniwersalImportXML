@@ -15,7 +15,7 @@
  * Klasa pozwala na import różnych plikóww .xml z przypisaniem odpowiednich tagach,
  * które chcemy odczytać.
  * Możemy odczytać te same dane z różnych plików.
- * Struktura dokumentu musi pozostaÄ‡ taka sama w kaÅ¼dym z nich.
+ * Struktura dokumentu musi pozostać taka sama w każdym z nich.
  * Tagi które chcemy wyświetlić podajemy w tablicy post.
  * Pełny uniwersalny kontapitybilny z ceneo, nokut, aukcyjny,
  */
